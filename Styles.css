@@ -38,6 +38,16 @@ a {
     color: #e8e6e3;
     background-repeat: no-repeat;
     background-size: cover;
+    width: 150px;
+    height: 100px;
+}
+
+
+h3 {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: #e8e6e3;
+    text-align: center;
 }
 
 
@@ -47,52 +57,82 @@ a {
     display: flex;
     width: 110px;
     height: 110px;
+    align-items: end;
     
   }
 
 .Game-list {
     display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding-inline: 5px;
-  padding-bottom: 10px;
-  border-radius: 15px;
-  margin-inline: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-inline: 5px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    margin-inline: 6px;
+    align-items: end;
 }
 
 
 #game1 {
-    background-image: url(/project/minecraft-15/grass.png);
+    background-image: url(projects/minecraft-15/grass.png);
 }
 
 #game2 {
-    background-image: url(project/DogeMiner/favicon.ico);
+    background-image: url(projects/DogeMiner/favicon.ico);
 }
 
 #game3 {
-    background-image: url(project/learntofly/learntofly.png);
+    background-image: url(projects/learntofly/learntofly.png);
 }
 #game4 {
-    background-image: url(project/learntofly2/learn-to-fly-2.jpg);
+    background-image: url(projects/learntofly2/learn-to-fly-2.jpg);
 }
 #game5 {
-    background-image: url(project/tiny-fishing/tiny-fishing.png);
+    background-image: url(projects/tiny-fishing/tiny-fishing.png);
 }
 #game6 {
-    background-image: url(project/basket-random/BasketRandom.png);
+    background-image: url(projects/basket-random/BasketRandom.png);
 }
 #game7 {
-    background-image: url(project/basketball-stars/assets/images/basketball-stars.png);
+    background-image: url(projects/basketball-stars/assets/images/basketball-stars.png);
 }
 #game8 {
-    background-image: url(project/1v1lol/logo.png);
+    background-image: url(projects/1v1lol/logo.png);
 }
 #game9 {
-    background-image: url(project/bitlife/logo.png);
+    background-image: url(projects/bitlife/logo.png);
 }
-
-
+#game10 {
+    background-image: url(projects/chrome-dino/favicon.ico);
+}
+#game11 {
+    background-image: url(projects/idle-breakout/img/thumbnail.png);
+}
+#game12 {
+    background-image: url(projects/ages-of-conflict/splash.jpg);
+}
+#game13 {
+    background-image: url(projects/adarkroom/favicon.ico);
+}
+#game14 {
+    background-image: url(projects/baldis-basics/splash.png);
+}
+#game15 {
+    background-image: url(projects/crossyroad/crossyroad.png);
+}
+#game16 {
+    background-image: url(projects/elastic-face/ElasticFace.png);
+}
 
 a:hover {
     color: #ceccc9;
 }
+
+
+
+.topnav {
+    text-align: right;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+
