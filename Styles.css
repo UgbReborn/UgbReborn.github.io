@@ -112,17 +112,12 @@ h3 {
     background-image: url(projects/ages-of-conflict/splash.jpg);
 }
 #game13 {
-    background-image: url(projects/adarkroom/favicon.ico);
-}
-#game14 {
     background-image: url(projects/baldis-basics/splash.png);
 }
-#game15 {
-    background-image: url(projects/crossyroad/crossyroad.png);
+#game14 {
+    background-image: url();
 }
-#game16 {
-    background-image: url(projects/elastic-face/ElasticFace.png);
-}
+
 
 a:hover {
     color: #ceccc9;
