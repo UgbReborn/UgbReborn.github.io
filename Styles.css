@@ -11,6 +11,12 @@ button {
     background-color: #16181a;
 }
 
+html{
+     font-family: 'Poppins', sans-serif;
+     color: #e8e6e3;
+}
+
+
 .banner {
   position: fixed;
   bottom: 0px;
